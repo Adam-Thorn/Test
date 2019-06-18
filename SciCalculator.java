@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// This is a test comment
 public class SciCalculator {
     public static void main(String[] args){
         Scanner scnr = new Scanner(System.in);
